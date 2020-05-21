@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "1007999737126",
+    "firebase_url": "https://fintech1997.firebaseio.com",
+    "project_id": "fintech1997",
+    "storage_bucket": "fintech1997.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1007999737126:android:78cca8d2b289300ca5f5e7",
+        "android_client_info": {
+          "package_name": "com.example.fintech"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1007999737126-4u4t272b27tv92jaef533kk1adl4gfeg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fintech",
+            "certificate_hash": "2f1d1365cc26788d29859569de163cfcc3c3578e"
+          }
+        },
+        {
+          "client_id": "1007999737126-bmkn0nmfogjjpc794blspnmar9q14rrn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0fj0UNbOSTEuUZeCZMyKk-MxVLOLi1Ws"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1007999737126-bmkn0nmfogjjpc794blspnmar9q14rrn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1007999737126:android:7f9b4ce6c88e707ea5f5e7",
+        "android_client_info": {
+          "package_name": "com.example.fintechapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1007999737126-bmkn0nmfogjjpc794blspnmar9q14rrn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0fj0UNbOSTEuUZeCZMyKk-MxVLOLi1Ws"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1007999737126-bmkn0nmfogjjpc794blspnmar9q14rrn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1007999737126:android:eb229473dedceac2a5f5e7",
+        "android_client_info": {
+          "package_name": "com.flutter_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1007999737126-bmkn0nmfogjjpc794blspnmar9q14rrn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0fj0UNbOSTEuUZeCZMyKk-MxVLOLi1Ws"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1007999737126-bmkn0nmfogjjpc794blspnmar9q14rrn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
